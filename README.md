@@ -1,6 +1,6 @@
 # MIT6.824-Labs
 
-[MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) 
+[MIT 6.5840: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) 
 
 These are a collection of my implementations of the labs & assignments.
 
